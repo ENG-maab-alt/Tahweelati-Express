@@ -42,6 +42,25 @@ To clone and run this project on your local machine, follow these steps:
 - Install [Flutter SDK](https://docs.flutter.dev/get-started/install)
 - Install [Visual Studio Code](https://code.visualstudio.com/) or Android Studio
 
+- Future Roadmap | خطة التطوير القادمة
+[ ] Backend & RESTful API Integration: Connect front-end state management to a secure backend server.
+
+[ ] Live Database: Implement real-time transactional database persistence.
+
+[ ] Biometric Access: Integrate native FaceID / TouchID authentication libraries.
+
+[ ] Payment Gateway Integration: Support credit/debit card funding and local wallet deposits.
+
+👩‍💻 Author & Brand Identity
+Developed & Maintained by (MAZ)
+
+Engineered with passion for Data Engineering, FinTech, and Clean Architecture.
+
+GitHub: @ENG-maab-alt
+
+📜 License
+This project is licensed under the MIT License.
+
 ### Installation Steps
 
 1. **Clone the repository:**
